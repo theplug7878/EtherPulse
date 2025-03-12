@@ -17,3 +17,6 @@ This project is a Python-based tool designed to analyze Ethereum (ETH) market da
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
+<img width="1126" alt="Screenshot 2025-03-11 at 9 14 19 PM" src="https://github.com/user-attachments/assets/5b482c9f-8965-4981-a403-eed2b27fa5a2" />
+<img width="1126" alt="Screenshot 2025-03-11 at 9 14 19 PM" src="https://github.com/user-attachments/assets/dfd44976-82f7-452f-bd1e-1497023288ae" />
+
